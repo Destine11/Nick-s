@@ -1,0 +1,22 @@
+
+
+h1{
+    font-family: 'Anton', sans-serif;
+font-family: 'DM Serif Display', serif;
+font-family: 'Nosifer', sans-serif;
+}
+
+h2{
+    font-family: 'Anton', sans-serif;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Nosifer', sans-serif;
+}
+
+ul{
+    margin: 10px 20px  ;
+    display: flex;
+     color: white;
+     justify-content: space-between;
+    font-size: 30px;
+    background-color:red
+}
